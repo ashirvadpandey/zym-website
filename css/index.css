@@ -25,7 +25,7 @@ html {
     height: 60px;
     position: sticky;
 /*     width:100%; */
-    width: 1367px;
+    width: 1355px;
 }
 .navi ul{
     overflow: auto;
@@ -88,7 +88,7 @@ html {
     height: 1000px;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 1367px;
+    width: 1355px;
 /*     width:100%; */
 
 }
