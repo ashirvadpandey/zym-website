@@ -88,8 +88,8 @@ html {
     height: 1000px;
     background-repeat: no-repeat;
     background-size: contain;
-/*     width: 1367px; */
-    width:100%;
+    width: 1367px;
+/*     width:100%; */
 
 }
 .about1{
@@ -144,7 +144,7 @@ html {
     background: url("/images/address.jpg");
     height: 550px;
     background-size: cover;
-    width: 1387px;
+    width: 1367px;
     margin-left: -250px;
     margin-top: 0px
 }
