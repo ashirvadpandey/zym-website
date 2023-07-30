@@ -1,0 +1,105 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-style: italic;
+}
+.plans{
+    margin-top: -20px;
+    background-color: rgb(51, 42, 39);
+    height: 1078px;
+    width: 1367px;
+   
+
+}
+.planstext{
+    font-size: 20px;
+    color: white;
+    margin-left: 480px;
+    margin-top: 20px;
+    width: 500px;
+}
+.newmember{
+    background-color: pink;
+    /* border: 2px solid rgb(243, 161, 175); */
+    height: 450px;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+#newtext{
+    color: rgb(8, 8, 8);
+    margin-left: 49px;
+    font-size: 23px;
+    margin-top: 44px;
+}
+#newpeice{
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-size: 60px;
+    margin-top: 46px;
+}
+#newdes1{
+    color: rgb(8, 8, 8);
+    margin-left: 50px;
+    font-size: 14px;
+    margin-top: 76px;
+}
+#newdur{
+    color: rgb(8, 8, 8);
+    margin-left: 94px;
+    font-size: 15px;
+    margin-top: 39px;
+  
+}
+#newbutton{
+    color: rgb(5, 0, 0);
+    margin-left: 10px;
+    font-size: 23px;
+    margin-top: 46px;
+    width: 325px;
+    padding: 1px;
+    height: 44px;
+    background-color: rgb(241, 60, 4);
+    border-radius: 7px;
+}
+#newbutton:hover{
+    background-color: rgb(51, 42, 39);
+    color: white;
+}
+.newdes2{
+    background-color: white;
+    margin-top: 0px;
+    width: 350px;
+    margin-left: 30px;
+    height: 378px;
+  
+}
+.newdes2para li {
+    padding: 15px;
+    list-style: none;
+    text-align: center;
+    font-style: italic;
+}
+.container1{
+    margin-left: 50px;
+}
+.containers{
+    display: flex;
+    
+}
+.newmember2{
+    background-color: rgb(240, 99, 6);
+    height: 450px;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.newdes3{
+    background-color: rgb(250, 249, 249);
+    margin-top: 0px;
+    width: 350px;
+    margin-left: 30px;
+    height: 378px;
+}
+

@@ -1,0 +1,47 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.login{
+    background-color:white;
+    height: 625px;
+}
+.loginp{
+    border: .02px solid rgb(155, 151, 151);
+    width: 349px;
+    padding: 100px;
+    margin-left: 350px;
+    margin-top: 27px;
+    height: 330px;
+
+}
+.loginp input{
+    width: 373px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid rgb(133, 133, 228);
+    padding-left: 10px
+}
+#forgotpass{
+    text-decoration:none;
+}
+#createac{
+    text-decoration: none;
+}
+#blogin{
+ 
+    width: 217px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: rgb(133, 133, 228);
+    margin: 30px;
+    margin-left: 82px;
+    font-size: 20px;
+}
+#blogin:hover{
+    background-color:rgb(211, 203, 203);
+    color: blue;
+}
+
