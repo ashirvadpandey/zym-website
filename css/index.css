@@ -7,7 +7,7 @@ html {
 }
 .body1{
    
-   background: url("/images/body_img.jpg");
+/*    background: url("/images/body_img.jpg"); */
    background-size: cover;
    background-color: white;
    height: 800px;
