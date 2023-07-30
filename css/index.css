@@ -7,14 +7,14 @@ html {
 }
 .body1{
    
-/*    background: url("/images/body_img.jpg"); */
+   background: url("/images/body_img.jpg");
    background-size: cover;
    background-color: white;
    height: 800px;
    background-repeat: no-repeat;
    margin-top: -50px;
-/*    width: 1367px; */
-    width:100%;
+   width: 1367px;
+/*     width:100%; */
    opacity: 6;
 
 }
@@ -26,8 +26,8 @@ html {
     margin: -2px;
     height: 60px;
     position: sticky;
-    width:100%;
-/*     width: 1369px; */
+/*     width:100%; */
+    width: 1369px;
 }
 .navi ul{
     overflow: auto;
