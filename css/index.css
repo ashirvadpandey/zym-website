@@ -13,7 +13,8 @@ html {
    height: 800px;
    background-repeat: no-repeat;
    margin-top: -50px;
-   width: 1367px;
+/*    width: 1367px; */
+    width:100%;
    opacity: 6;
 
 }
@@ -25,7 +26,8 @@ html {
     margin: -2px;
     height: 60px;
     position: sticky;
-    width: 1369px;
+    width:100%;
+/*     width: 1369px; */
 }
 .navi ul{
     overflow: auto;
@@ -88,7 +90,8 @@ html {
     height: 1000px;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 1367px;
+/*     width: 1367px; */
+    width:100%;
 
 }
 .about1{
@@ -136,7 +139,7 @@ html {
     width: 130px;
     font-size: 25px;
     margin-left: 1000px;
-    margin-top: -244px;
+    margin-top: -240px;
 }
 .addressclass{
 
